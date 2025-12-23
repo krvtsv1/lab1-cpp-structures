@@ -8,7 +8,8 @@ SRCS = main.cpp \
        DoubleLinkedList/DoubleLinkedList.cpp \
        Stack/Stack.cpp \
        Queue/Queue.cpp \
-       FullBinaryTree/FullBinaryTree.cpp
+       FullBinaryTree/FullBinaryTree.cpp \
+       HashSet/HashSet.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
